@@ -1,0 +1,29 @@
+.mainpage {
+}
+
+img {
+	align: center;
+
+}
+
+body {
+	background-color: white;
+}
+
+
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar
+{
+	align: center;
+}
+
+#left_navbar a
+{
+	color:gray;
+}
